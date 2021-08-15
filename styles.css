@@ -95,13 +95,13 @@ img
      border-collapse:collapse;
     
  }
- #link1
+ #link1:hover
  {
    background-color: white;
  
 
  }
- #contact
+ #contact:hover
  {
     background-color: tomato;
     width: 30%;
