@@ -35,17 +35,18 @@ img
 #table2
 {
      border : 2px; 
+     border-color: black;
      font-size:20px;
      border-collapse:collapse;
 }
 #link1
 {
-    bacground-color:white;
+    backround-color:white;
     
 }
 #contact
 {
-    backgrount-color: red;
+    background-color: red;
     width: 30%;
-    height; 10px;
+    height; 20;
 }
