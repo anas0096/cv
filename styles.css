@@ -52,3 +52,58 @@ img
     width: 30%;
     height: 20px
  }
+body {
+    padding-left: 50px;
+    
+    background-color: blanchedalmond;
+}
+hr
+{
+    
+    border-style: none;
+    border-color: grey;
+    border-top-style:dotted;
+    border-width: 10px;
+    width: 10%;
+    height: 5px;
+
+   
+}
+h1
+{
+  
+    color: rgb(0, 225, 255);
+}
+h2
+{
+   
+    color: rgb(0, 225, 255);
+}
+img
+{
+    border-radius: 100%;
+    
+   
+    width: 170px;
+    height: 200px;  ;
+}
+#table2
+{
+    border : 1px; 
+    font-size:20px;
+    
+     border-collapse:collapse;
+    
+ }
+ #link1
+ {
+   background-color: white;
+ 
+
+ }
+ #contact
+ {
+    background-color: tomato;
+    width: 30%;
+    height: 20px
+ }
