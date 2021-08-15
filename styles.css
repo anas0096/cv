@@ -8,11 +8,12 @@ hr
     
     border-style: none;
     border-color: grey;
-    border-top-style: dotted;
+    border-top-style:dotted;
     border-width: 10px;
     width: 10%;
-    
-    height: 0px;
+    height: 5px;
+
+   
 }
 h1
 {
@@ -34,19 +35,20 @@ img
 }
 #table2
 {
-     border : 2px; 
-     border-color: black;
-     font-size:20px;
+    border : 1px; 
+    font-size:20px;
      border-collapse:collapse;
-}
-#link1
-{
-    backround-color:white;
     
-}
-#contact
-{
-    background-color: red;
+ }
+ #link1
+ {
+   background-color: white;
+ 
+
+ }
+ #contact
+ {
+    background-color: tomato;
     width: 30%;
-    height; 20px;
-}
+    height: 20px
+ }
