@@ -1,5 +1,5 @@
 body {
-    padding-left: 50px;
+    padding-left: 40px;
     
     background-color: blanchedalmond;
 }
@@ -19,7 +19,7 @@ hr
 
         
 
-#orderlist:hover
+#orderlist
 {
     background-color: cornflowerblue;
     width: 16%;
@@ -38,7 +38,7 @@ h1
     background-color: cyan;
     width: 20%;
 }
-h
+h2
 {
    
     color: rgb(0, 225, 255);
@@ -61,13 +61,13 @@ img
      border-collapse:collapse;
     
  }
- #link1
+ #link1:hover
  {
    background-color: white;
  
 
  }
- #contact:hover
+ #contact
  {
     background-color: tomato;
     width: 30%;
