@@ -16,11 +16,9 @@ hr
 
    
 }
-#contactme:hover{
 
-    background-color:darkgoldenrod;
         
-}
+
 #orderlist:hover
 {
     background-color: cornflowerblue;
@@ -33,14 +31,14 @@ hr
 #anas:hover{
     background-color: lightslategray;
 }
-h1:hover
+h1
 {
   
     color: rgb(0, 225, 255);
     background-color: cyan;
     width: 20%;
 }
-h2:hover
+h
 {
    
     color: rgb(0, 225, 255);
@@ -63,7 +61,7 @@ img
      border-collapse:collapse;
     
  }
- #link1:hover
+ #link1
  {
    background-color: white;
  
