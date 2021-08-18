@@ -3,6 +3,7 @@ body {
     
     background-color: blanchedalmond;
 }
+
 hr
 {
     
@@ -15,38 +16,31 @@ hr
 
    
 }
-#anas:hover
+#orderlist:hover
 {
-    background-color:cornflowerblue;
-   
-} 
-#experience:hover
-{
-    background-color:cornflowerblue;
-    width:21%;
-    
+    background-color: cornflowerblue;
+    width: 16%;
 }
-#orderlist:hover{
-
-    background-color:cornflowerblue;
-    width:20%;
+#experience:hover{
+    background-color: cornflowerblue;
+    width: 21%;
 }
-
-
+#anas:hover{
+    background-color: lightslategray;
+}
 h1:hover
 {
   
     color: rgb(0, 225, 255);
-    background-color:cyan;
-    
-   width: 20%;
+    background-color: cyan;
+    width: 20%;
 }
 h2:hover
 {
    
     color: rgb(0, 225, 255);
-    background-color:cyan;
-width:10%;
+    background-color: cyan;
+    width: 10%;
 }
 img
 {
@@ -56,10 +50,11 @@ img
     width: 170px;
     height: 200px;  ;
 }
-#table2:hover
+#table2
 {
     border : 1px; 
     font-size:20px;
+    
      border-collapse:collapse;
     
  }
@@ -75,4 +70,3 @@ img
     width: 30%;
     height: 20px
  }
-
